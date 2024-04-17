@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @halmosigabor
 - 👀 I’m a Product Owner, intrested in coding, but absolutely amateur in it... 
-- 🌱 I’m currently learning Javasrcipt
+- 🌱 I’m currently learning Javascript
 - 📫 You can reach me on LinkedIn: https://www.linkedin.com/in/halmosigabor/
 
 <!---
